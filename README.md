@@ -27,15 +27,20 @@ O Dublebiceps é uma aplicação que visa facilitar o encontro entre vendedores 
 -   [Expo](https://expo.io/)
 -   [MongoDB](https://www.mongodb.org)
 
-### 🔧 Back-end
+### 🔧 Back-end (server)
 
 -   Entrar na pasta `server`;
 -   Executar `npm install` para instalar dependências do projeto;
--   Executar `npm run dev` para que o projeto seja executado;
+-   Executar `npm start` para que o projeto seja executado;
 
-### 💻 Front-end
+### 💻 Client Front-end
 
 -   Entrar na pasta `client`;
+-   Executar `npm install` para instalar dependências do projeto;
+-   Executar `npm start` para que o projeto seja executado;
+### 💻 Admin front-end
+
+-   Entrar na pasta `admin`;
 -   Executar `npm install` para instalar dependências do projeto;
 -   Executar `npm start` para que o projeto seja executado;
 
